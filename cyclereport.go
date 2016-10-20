@@ -36,6 +36,7 @@ func callYourFunc() {
 }
 
 func report() {
+
 	hostMess := get.GetHost()
 	processMess := get.GetProcess()
 	// Set up a connection to the server.
